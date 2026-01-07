@@ -1,0 +1,5 @@
+{
+  "name": "ScreenSaver Pro",
+  "description": "A versatile screensaver and wallpaper application supporting WebGL effects (Vanta.js) and external webpage embeds.",
+  "requestFramePermissions": []
+}
